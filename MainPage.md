@@ -1,3 +1,7 @@
+layout: page
+title: "Confomeety home page"
+permalink: /
+
 # Confomeety
 
 Confomeety helps you manage board or committee meeting agenda. It helps you increase your organization 
