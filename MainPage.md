@@ -1,6 +1,6 @@
 layout: page
 title: "Confomeety home page"
-permalink: /
+permalink: /home
 
 # Confomeety
 
