@@ -2,6 +2,7 @@
 layout: default
 title: Bearer Token Authentication
 permalink: /confomeety-bearer-auth/
+nav_order: 20
 ---
 
 # Bearer Token Authentication Guide

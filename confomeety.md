@@ -2,6 +2,7 @@
 layout: default
 title: User Guide
 permalink: /confomeety/
+nav_order: 10
 ---
 
 # Confomeety User Guide

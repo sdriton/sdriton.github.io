@@ -2,6 +2,7 @@
 layout: default
 title: Rest API
 permalink: /confomeety-api/
+nav_order: 15
 ---
 
 # Confomeety REST API Documentation
