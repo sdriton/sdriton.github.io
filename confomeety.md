@@ -1,8 +1,8 @@
------
-layout: page
+---
+layout: default
 title: Confomeety home page
 permalink: /confomeety/
------
+---
 
 # Confomeety User Guide
 
@@ -43,7 +43,7 @@ Confomeety is a comprehensive meeting and agenda management application designed
 - **User**: Can view and manage meetings and topics
 - **Manager**: Has full access including configuration settings and board creation
 
-![Confomeety Main Interface](assets/confomeety_boards.png)
+![Confomeety Main Interface](/assets/confomeety_boards.png)
 
 
 ## Getting Started
@@ -54,7 +54,7 @@ Confomeety is a comprehensive meeting and agenda management application designed
 2. Click on the **Confomeety** app icon from the main menu
 3. You will see the main dashboard with recent meetings and statistics
 
-![Confomeety App Menu](assets/confomeety_menu.png)
+![Confomeety App Menu](/assets/confomeety_menu.png)
 
 ### Navigation Overview
 
@@ -116,7 +116,7 @@ Each board has its own meetings, custom topic categories, and status configurati
 4. (Optional) Upload a **Board Logo** by clicking on the image placeholder
 5. Click **Save**
 
-![Creating a Board](assets/create_board.png)
+![Creating a Board](/assets/create_board.png)
 
 ### Viewing Board Details
 
@@ -143,7 +143,7 @@ The board detail page shows:
 Instead of deleting boards, you can archive them:
 
 1. Open the board detail view
-2. Click the **Action** menu (![action_gear](assets/action_gear.png))
+2. Click the **Action** menu (![action_gear](/assets/action_gear.png))
 3. Select **Archive**
 4. Confirm the action
 
@@ -169,7 +169,7 @@ To view archived boards:
 4. (Optional) Add **Tags** to categorize the meeting
 5. Click **Save**
 
-![Creating a Meeting](assets/create_meeting.png)
+![Creating a Meeting](/assets/create_meeting.png)
 
 
 
@@ -216,7 +216,7 @@ There are two ways to add topics (agenda items) to a meeting:
 4. Click on a meeting to open its details
 5. Drag and drop to reschedule meetings
 
-![Meeting Calendar View](assets/meetings_calendar_view.png)
+![Meeting Calendar View](/assets/meetings_calendar_view.png)
 
 ### Adding Meeting Files
 
@@ -294,7 +294,7 @@ If needed, permissions can be modified in Odoo to address your own scenario.
 
 4. Click **Save**
 
-![Creating a Topic](assets/create_topic.png)
+![Creating a Topic](/assets/create_topic.png)
 
 ### Viewing Topics in Different Views
 
@@ -356,12 +356,12 @@ This is useful for linking to:
 
 ### Sequencing Topics
 
-![Sequence Topics](assets/sequence_topics.png)
+![Sequence Topics](/assets/sequence_topics.png)
 
 Control the order of topics in the agenda:
 
 1. Open the topic list whether on the meeting detail or the topics list
-2. Click on the ![move_icon](assets/move_icon.png)
+2. Click on the ![move_icon](/assets/move_icon.png)
  icon that is located in the beggining of the topic item and drag the topic to the desired position
 3. Click **Save**
 
@@ -406,7 +406,7 @@ Alternatively:
 
 ### Using Tags to Filter
 
-![Using Tags Filter](assets/filters.png)
+![Using Tags Filter](/assets/filters.png)
 
 #### In List View
 1. Navigate to **Confomeety > Meetings** or **Topics**
@@ -428,7 +428,7 @@ Alternatively:
 
 ## Dashboard Overview
 
-![Dashboard Overview](assets/confomeety_dashboard.png)
+![Dashboard Overview](/assets/confomeety_dashboard.png)
 
 ### Accessing the Dashboard
 
@@ -790,7 +790,7 @@ We welcome your feedback! Contact DS Solutions to suggest improvements or report
 - **Tag**: A label used to categorize and filter records
 
 ### Workflow Diagram
-![Confomeety Flow](assets/confomeety_flow.png)
+![Confomeety Flow](/assets/confomeety_flow.png)
 
 
 ---
