@@ -50,13 +50,6 @@ search:
   rel_url: true
   button: false
 
-# Back to top link
-back_to_top: true
-back_to_top_text: "Back to top"
-
-# Footer content
-footer_content: "Copyright &copy; 2026 Confomeety. Distributed by an <a href=\"https://github.com/sdriton/sdriton.github.io/tree/main/LICENSE\">MIT license.</a>"
-
 # Color scheme (light or dark)
 color_scheme: light
 
