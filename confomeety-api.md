@@ -24,7 +24,7 @@ Authorization: Bearer YOUR_API_KEY
 4. Go to the **API Keys** tab
 5. Click **New API Key** and save the generated key
 
-For detailed authentication instructions, see [BEARER_TOKEN_AUTH.md](../../BEARER_TOKEN_AUTH.md)
+For detailed authentication instructions, see the [Confomeety Bearer Token Authentication]({{ '/confomeety-bearer-auth/' | relative_url }})
 
 ### Authentication Errors
 
