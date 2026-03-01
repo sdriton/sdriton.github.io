@@ -1,7 +1,7 @@
 -----
 layout: page
-title: "Confomeety home page"
-permalink: /
+title: Confomeety home page
+permalink: /confomeety/
 -----
 
 # Confomeety User Guide
