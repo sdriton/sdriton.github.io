@@ -4,15 +4,12 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# Confomeety
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+**Transform Your Board & Meeting Management Experience**
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+The ultimate all-in-one solution for managing boards, committees, meetings, and agendas. Streamline your governance workflows, track decisions, and collaborate seamlessly—all within Odoo.
 
+**What Sets Confomeety Apart?**
 
-[jekyll-organization]: https://github.com/jekyll
+Tired of scattered meeting notes and disconnected board management? Confomeety brings everything together in one powerful, intuitive platform designed specifically for Odoo.

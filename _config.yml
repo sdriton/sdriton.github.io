@@ -31,7 +31,8 @@ baseurl: "/" # the subpath of your site, e.g. /blog
 github_username:  sdriton
 
 # Build settings
-theme: jekyll-theme-minimal
+# theme: jekyll-theme-minimal
+theme: just-the-docs
 plugins:
   - jekyll-feed
   - jekyll-seo-tag

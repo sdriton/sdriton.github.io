@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Confomeety User Guide
+title: User Guide
 permalink: /confomeety/
 ---
 

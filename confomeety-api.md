@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Confomeety Rest API Documentation
+title: Rest API
 permalink: /confomeety-api/
 ---
 

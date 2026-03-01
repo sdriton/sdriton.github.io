@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Confomeety Bearer Token Authentication
+title: Bearer Token Authentication
 permalink: /confomeety-bearer-auth/
 ---
 
