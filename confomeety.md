@@ -773,7 +773,7 @@ Confomeety provides a comprehensive REST API for integration with other systems.
 
 We welcome your feedback! Contact DS Solutions to suggest improvements or report issues.
 
----
+***
 
 ## Appendix
 
@@ -794,7 +794,7 @@ We welcome your feedback! Contact DS Solutions to suggest improvements or report
 ![Confomeety Flow](/assets/confomeety_flow.png)
 
 
----
+***
 
 **Document Version**: 1.0  
 **Confomeety Version**: 19.0.1.0.0  
