@@ -30,7 +30,7 @@ url: "https://sdriton.github.io" # the base hostname & protocol for your site, e
 github_username:  sdriton
 
 # Build settings
-theme: minima
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
