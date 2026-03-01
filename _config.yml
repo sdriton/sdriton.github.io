@@ -25,8 +25,9 @@ description: >- # this means to ignore newlines until "baseurl:"
   help organizations efficiently manage meetings for boards, committees, task forces, 
   projects and many more. It provides a structured workflow for organizing meetings, 
   tracking agenda items, and documenting decisions.
-baseurl: "/home" # the subpath of your site, e.g. /blog
+domain: sdriton.github.io
 url: "https://sdriton.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/confomeety" # the subpath of your site, e.g. /blog
 github_username:  sdriton
 
 # Build settings
