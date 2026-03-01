@@ -1,6 +1,8 @@
+-----
 layout: page
 title: "Confomeety home page"
 permalink: /home
+-----
 
 # Confomeety User Guide
 
