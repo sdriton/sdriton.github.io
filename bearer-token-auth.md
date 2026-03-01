@@ -194,7 +194,7 @@ All the following endpoints now require Bearer token authentication:
 
 API key authentication respects Odoo's standard security rules:
 - The user associated with the API key must have appropriate permissions
-- Record rules defined in [security.xml](../security/security.xml) still apply
+- Record rules defined in `security.xml` still apply
 - Confomeety User group: Read-only access to boards and topics
 - Confomeety Manager group: Full CRUD access to all resources
 

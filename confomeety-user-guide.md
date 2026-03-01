@@ -1,7 +1,7 @@
 ---
 layout: default
 title: User Guide
-permalink: /confomeety/
+permalink: /confomeety-user-guide/
 nav_order: 10
 ---
 

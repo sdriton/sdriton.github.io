@@ -562,5 +562,5 @@ Common HTTP status codes:
 - `404`: Resource not found
 - `500`: Internal server error
 
----
+***
 
