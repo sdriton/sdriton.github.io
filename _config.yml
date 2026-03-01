@@ -28,11 +28,12 @@ description: >- # this means to ignore newlines until "baseurl:"
 domain: sdriton.github.io
 url: "https://sdriton.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "/" # the subpath of your site, e.g. /blog
-github_username:  sdriton
+# github_username:  sdriton
 
 # Build settings
 # theme: jekyll-theme-minimal
-theme: just-the-docs
+# theme: just-the-docs
+remote_theme: just-the-docs/just-the-docs
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
